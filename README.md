@@ -1,6 +1,12 @@
-### olá sou a Iris da Silva 👋
+### olá sou a Iris da Silva 
 
 - 🌱 Atualmente estou estudando PHP
-- 😄 Pronouns: ela/dela
+- 😄 Pronemes: ela/dela
+<div>
+  <img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=irilva&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura">
+</div>
+<div>
+  <img aling="left" width="47%"  src="(https://github-readme-stats.vercel.app/api/top-langs/?username=irilva&layout=compact)"
+</div>
 
 
