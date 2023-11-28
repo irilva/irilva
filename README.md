@@ -1,5 +1,7 @@
+<img  width=100% src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif" />
+</br>
 
-### Olá! Sou a Iris da Silva
+<h1>Olá! Sou a Iris da Silva</h1>
 
 ✍🏼 Focada em aprender cada vez mais.
 </br>
@@ -26,4 +28,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irilva&layout=compact)
 
-![Snake animation](https://github.com/irilva/irilva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luigiGf/luigiGf/blob/output/github-contribution-grid-snake.svg)
+</br>
+<img  width=100% src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif" />
