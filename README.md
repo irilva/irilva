@@ -9,4 +9,6 @@
   <img aling="left" width="47%"  src="(https://github-readme-stats.vercel.app/api/top-langs/?username=irilva&layout=compact)"
 </div>
 
-
+<div>
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://instragram.com/silva_iris06)
+</div>
