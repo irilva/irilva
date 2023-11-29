@@ -10,7 +10,7 @@
  <img align="center" alt="" height="150" src="https://kinsta.com/pt/wp-content/uploads/sites/3/2021/12/back-end-developer.png"/>
  </br>
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/silva_iris06)
-[![email]<a href= "malito:contato@silvairis150406.tech"><img src="(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitee)]"/></>
+[![email]<a href = "mailto:silvairis150406@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
