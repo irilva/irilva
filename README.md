@@ -9,8 +9,11 @@
 </br>
  <img align="center" alt="" height="150" src="https://kinsta.com/pt/wp-content/uploads/sites/3/2021/12/back-end-developer.png"/>
  </br>
+ 
+<h2>Formas de contato</h2>
+ 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/silva_iris06)
-[![email]<a href = "mailto:silvairis150406@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:silvairis150406@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 
@@ -30,6 +33,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irilva&layout=compact)
 
-![Snake animation](https://github.com/luigiGf/luigiGf/blob/output/github-contribution-grid-snake.svg)
+
 </br>
 <img  width=100% src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0387.gif" />
