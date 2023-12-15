@@ -5,7 +5,7 @@
 
 ✍🏼 Focada em aprender cada vez mais.
 </br>
-🙋🏼‍♀️ back-End
+🙋🏼‍♀️ Futura back-End
 </br>
  <img align="center" alt="" height="150" src="https://kinsta.com/pt/wp-content/uploads/sites/3/2021/12/back-end-developer.png"/>
  </br>
